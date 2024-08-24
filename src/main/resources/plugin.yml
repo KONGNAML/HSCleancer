@@ -1,0 +1,11 @@
+name: HSCleaner
+version: '${version}'
+main: org.kongit.hscleaner.HSCleaner
+api-version: '1.17'
+website: https://discord.gg/horangstore
+author: KONGNAML
+depend:
+  - HSLib
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.20
+
